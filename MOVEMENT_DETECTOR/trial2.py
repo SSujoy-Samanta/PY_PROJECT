@@ -1,8 +1,8 @@
 import cv2
 import telepot
 import time
-token='6799766729:AAGhqM-MGhwJ9XbLqcDaFBrGtmkNWKeP-dw'
-recever_id='5106410815'
+token="Your Telegram Bot token"
+recever_id='Id'
 
 # Set the URL of the video stream
 url = 'http://192.168.0.110:8080/video'
